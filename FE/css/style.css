@@ -1,0 +1,16 @@
+.img{
+    width: 249px;
+    height: 225px;
+}
+.top1{
+    border-style: groove;
+    border-color: black;
+    width: 50%;
+    padding: 20px 30px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.img1{
+    width: 270px;
+    height: 230px;
+}
