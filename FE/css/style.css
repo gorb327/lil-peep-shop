@@ -2,15 +2,31 @@
     width: 249px;
     height: 225px;
 }
-.top1{
+.shop{
     border-style: groove;
     border-color: black;
     width: 50%;
     padding: 20px 30px;
     box-sizing: border-box;
     display: inline-block;
+    height: 400px;
 }
-.img1{
+/* .img1{
     width: 270px;
     height: 230px;
+} */
+.info{
+    font-size: 20px;
+}
+.imgpeep{
+    width: 166px;
+}
+.imgleft{
+    float: right;
+}
+.shop1{
+    width: 100%;
+    height: 50px;
+    background-color: cadetblue;
+    padding-top: 25px;
 }
